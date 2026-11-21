@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LLD.iml" filepath="$PROJECT_DIR$/LLD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NotificationSystem/NotificationSystem.iml" filepath="$PROJECT_DIR$/NotificationSystem/NotificationSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spotify/Spotify.iml" filepath="$PROJECT_DIR$/Spotify/Spotify.iml" />
+    </modules>
+  </component>
+</project>
